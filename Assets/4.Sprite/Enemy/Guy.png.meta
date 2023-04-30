@@ -1,0 +1,7116 @@
+fileFormatVersion: 2
+guid: 0a4687011b1b73049a308ee33ccab103
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7674397898601434565
+    second: Guy_0
+  - first:
+      213: -2356465846495720907
+    second: Guy_1
+  - first:
+      213: 2156160914531489317
+    second: Guy_2
+  - first:
+      213: 1290263079830008881
+    second: Guy_3
+  - first:
+      213: 8444081492761671576
+    second: Guy_4
+  - first:
+      213: -3919992927797218054
+    second: Guy_5
+  - first:
+      213: 2402917204282092409
+    second: Guy_6
+  - first:
+      213: 1520794717839527846
+    second: Guy_7
+  - first:
+      213: -8294596596537629256
+    second: Guy_8
+  - first:
+      213: 1897287471988504582
+    second: Guy_9
+  - first:
+      213: -1015705138045686119
+    second: Guy_10
+  - first:
+      213: -6019067175062045575
+    second: Guy_11
+  - first:
+      213: 7328490488515545962
+    second: Guy_12
+  - first:
+      213: -4092714347471748324
+    second: Guy_13
+  - first:
+      213: 447072257353225225
+    second: Guy_14
+  - first:
+      213: 409290551386183456
+    second: Guy_15
+  - first:
+      213: 1192607743769039264
+    second: Guy_16
+  - first:
+      213: 2546619752371387085
+    second: Guy_17
+  - first:
+      213: 6744772223901624328
+    second: Guy_18
+  - first:
+      213: -2180796803310424951
+    second: Guy_19
+  - first:
+      213: -7414723699679369850
+    second: Guy_20
+  - first:
+      213: 1063982223586794610
+    second: Guy_21
+  - first:
+      213: 8438614298396058167
+    second: Guy_22
+  - first:
+      213: 636814275143278423
+    second: Guy_23
+  - first:
+      213: -8590251190446198741
+    second: Guy_24
+  - first:
+      213: -7920660065074306336
+    second: Guy_25
+  - first:
+      213: 1741389888004037242
+    second: Guy_26
+  - first:
+      213: 6368685394976015693
+    second: Guy_27
+  - first:
+      213: -4470333341455616065
+    second: Guy_28
+  - first:
+      213: 7983796900113869386
+    second: Guy_29
+  - first:
+      213: -7451622218086624989
+    second: Guy_30
+  - first:
+      213: 3716873089553573255
+    second: Guy_31
+  - first:
+      213: 211041433199842220
+    second: Guy_32
+  - first:
+      213: -4655358755390623277
+    second: Guy_33
+  - first:
+      213: 5931746982719590778
+    second: Guy_34
+  - first:
+      213: -5385343889736475776
+    second: Guy_35
+  - first:
+      213: -764733190021463702
+    second: Guy_36
+  - first:
+      213: -3786964838385363446
+    second: Guy_37
+  - first:
+      213: 3782371294489598295
+    second: Guy_38
+  - first:
+      213: 5476908242275727675
+    second: Guy_39
+  - first:
+      213: 4071074161779463503
+    second: Guy_40
+  - first:
+      213: -998933382261041714
+    second: Guy_41
+  - first:
+      213: -8359397238791550370
+    second: Guy_42
+  - first:
+      213: -3607506399250537655
+    second: Guy_43
+  - first:
+      213: -3568795284191596210
+    second: Guy_44
+  - first:
+      213: 4633854261204737412
+    second: Guy_45
+  - first:
+      213: -1673203693215042649
+    second: Guy_46
+  - first:
+      213: -6584450016385633352
+    second: Guy_47
+  - first:
+      213: -1105418142653146123
+    second: Guy_48
+  - first:
+      213: 2569678961355894928
+    second: Guy_49
+  - first:
+      213: 8711946454800482033
+    second: Guy_50
+  - first:
+      213: -2590757713567468638
+    second: Guy_51
+  - first:
+      213: -1982927158176658957
+    second: Guy_52
+  - first:
+      213: -885028228422466863
+    second: Guy_53
+  - first:
+      213: -843858025063155634
+    second: Guy_54
+  - first:
+      213: -5011933956494491339
+    second: Guy_55
+  - first:
+      213: -2276063104568002763
+    second: Guy_56
+  - first:
+      213: -2792230032041471897
+    second: Guy_57
+  - first:
+      213: -2240576697201338090
+    second: Guy_58
+  - first:
+      213: -7819305359391599993
+    second: Guy_59
+  - first:
+      213: 7664988002184970045
+    second: Guy_60
+  - first:
+      213: 8986899829797979354
+    second: Guy_61
+  - first:
+      213: 3215958537147684135
+    second: Guy_62
+  - first:
+      213: 4124737783948328697
+    second: Guy_63
+  - first:
+      213: 7372144676687526332
+    second: Guy_64
+  - first:
+      213: -8196829167816303164
+    second: Guy_65
+  - first:
+      213: 8002496756737355763
+    second: Guy_66
+  - first:
+      213: 5521007696023366553
+    second: Guy_67
+  - first:
+      213: -3732641024291414459
+    second: Guy_68
+  - first:
+      213: 8990114679550053183
+    second: Guy_69
+  - first:
+      213: -298614938896827450
+    second: Guy_70
+  - first:
+      213: 2271586398156498853
+    second: Guy_71
+  - first:
+      213: -2680693247391528788
+    second: Guy_72
+  - first:
+      213: 1437378683411726658
+    second: Guy_73
+  - first:
+      213: -1280545955601908161
+    second: Guy_74
+  - first:
+      213: -8653243766542222643
+    second: Guy_75
+  - first:
+      213: 2999909922386270911
+    second: Guy_76
+  - first:
+      213: -2977335797553797434
+    second: Guy_77
+  - first:
+      213: -3151875325559674711
+    second: Guy_78
+  - first:
+      213: 2822152152609079480
+    second: Guy_79
+  - first:
+      213: 3584710606717949374
+    second: Guy_80
+  - first:
+      213: 1507562961572595739
+    second: Guy_81
+  - first:
+      213: 6095836266514646788
+    second: Guy_82
+  - first:
+      213: 7181912559007881159
+    second: Guy_83
+  - first:
+      213: -5806821350313568239
+    second: Guy_84
+  - first:
+      213: 8710974474189203991
+    second: Guy_85
+  - first:
+      213: -1002001345468195522
+    second: Guy_86
+  - first:
+      213: 4096490092237314351
+    second: Guy_87
+  - first:
+      213: -7807144108522194875
+    second: Guy_88
+  - first:
+      213: 4751095515682531180
+    second: Guy_89
+  - first:
+      213: -3146901441064606069
+    second: Guy_90
+  - first:
+      213: -3475609630651629949
+    second: Guy_91
+  - first:
+      213: -8865478087325062019
+    second: Guy_92
+  - first:
+      213: -7265790049342574008
+    second: Guy_93
+  - first:
+      213: 4753085756586126736
+    second: Guy_94
+  - first:
+      213: 3365725673831259285
+    second: Guy_95
+  - first:
+      213: -8225436864763543704
+    second: Guy_96
+  - first:
+      213: 8372668333675789632
+    second: Guy_97
+  - first:
+      213: -6583948055744737379
+    second: Guy_98
+  - first:
+      213: -8394534275134872226
+    second: Guy_99
+  - first:
+      213: 3067300945786511506
+    second: Guy_100
+  - first:
+      213: -8544518259745251057
+    second: Guy_101
+  - first:
+      213: 8736644239993751857
+    second: Guy_102
+  - first:
+      213: 3167520152992685171
+    second: Guy_103
+  - first:
+      213: 2091217389899360277
+    second: Guy_104
+  - first:
+      213: 7993022498010898288
+    second: Guy_105
+  - first:
+      213: 4631660198972689193
+    second: Guy_106
+  - first:
+      213: 3187817474884093985
+    second: Guy_107
+  - first:
+      213: 8317949910306783415
+    second: Guy_108
+  - first:
+      213: 2385907425007316859
+    second: Guy_109
+  - first:
+      213: -4730080958710110324
+    second: Guy_110
+  - first:
+      213: -320912127104190728
+    second: Guy_111
+  - first:
+      213: 4061936531588302225
+    second: Guy_112
+  - first:
+      213: -7827850886585898661
+    second: Guy_113
+  - first:
+      213: 7398508205630837083
+    second: Guy_114
+  - first:
+      213: -3861481224076017150
+    second: Guy_115
+  - first:
+      213: 2677731479730325941
+    second: Guy_116
+  - first:
+      213: -6757236253502682646
+    second: Guy_117
+  - first:
+      213: -372710280175508416
+    second: Guy_118
+  - first:
+      213: 3363577892065077658
+    second: Guy_119
+  - first:
+      213: 4439769812011315523
+    second: Guy_120
+  - first:
+      213: 4413393230551241446
+    second: Guy_121
+  - first:
+      213: -841109443447929674
+    second: Guy_122
+  - first:
+      213: -2132362979018303755
+    second: Guy_123
+  - first:
+      213: -7699393337158473909
+    second: Guy_124
+  - first:
+      213: -5593438634964241983
+    second: Guy_125
+  - first:
+      213: 1194967674413680044
+    second: Guy_126
+  - first:
+      213: 3078420185178945643
+    second: Guy_127
+  - first:
+      213: -4650899922776511239
+    second: Guy_128
+  - first:
+      213: -144895432698835975
+    second: Guy_129
+  - first:
+      213: -1792526154655617231
+    second: Guy_130
+  - first:
+      213: 828672642341358456
+    second: Guy_131
+  - first:
+      213: 8214923965719073524
+    second: Guy_132
+  - first:
+      213: -2347642853752184982
+    second: Guy_133
+  - first:
+      213: -4719350681633867318
+    second: Guy_134
+  - first:
+      213: 2005505562113007378
+    second: Guy_135
+  - first:
+      213: 4870765920454503208
+    second: Guy_136
+  - first:
+      213: -7471679999326425252
+    second: Guy_137
+  - first:
+      213: 9148494662995403290
+    second: Guy_138
+  - first:
+      213: 4473775314691180093
+    second: Guy_139
+  - first:
+      213: -8018596080722330172
+    second: Guy_140
+  - first:
+      213: 6765185531381962937
+    second: Guy_141
+  - first:
+      213: -4249159643358406445
+    second: Guy_142
+  - first:
+      213: -7385716960967396875
+    second: Guy_143
+  - first:
+      213: -8557415558631696861
+    second: Guy_144
+  - first:
+      213: -6467459845689885905
+    second: Guy_145
+  - first:
+      213: -5748811826545416879
+    second: Guy_146
+  - first:
+      213: -4102812733570084987
+    second: Guy_147
+  - first:
+      213: 6598514638599828900
+    second: Guy_148
+  - first:
+      213: -5774871342374284963
+    second: Guy_149
+  - first:
+      213: 6177657138548047760
+    second: Guy_150
+  - first:
+      213: 1638208566711425332
+    second: Guy_151
+  - first:
+      213: 1101642280374187115
+    second: Guy_152
+  - first:
+      213: 8489099565689111227
+    second: Guy_153
+  - first:
+      213: 3306401335631877167
+    second: Guy_154
+  - first:
+      213: 7100852423374445130
+    second: Guy_155
+  - first:
+      213: -3370534930749547649
+    second: Guy_156
+  - first:
+      213: 2096176664777976455
+    second: Guy_157
+  - first:
+      213: -4854384776822246589
+    second: Guy_158
+  - first:
+      213: 4753545941231823910
+    second: Guy_159
+  - first:
+      213: 6991597697135632572
+    second: Guy_160
+  - first:
+      213: 1685175622116704376
+    second: Guy_161
+  - first:
+      213: -8634812259378950507
+    second: Guy_162
+  - first:
+      213: 2914499519964434039
+    second: Guy_163
+  - first:
+      213: 2695299498188404955
+    second: Guy_164
+  - first:
+      213: 149497531940053992
+    second: Guy_165
+  - first:
+      213: -50119242310267754
+    second: Guy_166
+  - first:
+      213: 1674190933058932443
+    second: Guy_167
+  - first:
+      213: -7398170568934030180
+    second: Guy_168
+  - first:
+      213: -5461966973901320826
+    second: Guy_169
+  - first:
+      213: -3194882606038826069
+    second: Guy_170
+  - first:
+      213: 5060547556085372994
+    second: Guy_171
+  - first:
+      213: -8944180668689679875
+    second: Guy_172
+  - first:
+      213: -2479269227717425978
+    second: Guy_173
+  - first:
+      213: -2305297239437585238
+    second: Guy_174
+  - first:
+      213: 4634521009447809864
+    second: Guy_175
+  - first:
+      213: 3681934189887372051
+    second: Guy_176
+  - first:
+      213: -7684300014541873122
+    second: Guy_177
+  - first:
+      213: -4706047420687625230
+    second: Guy_178
+  - first:
+      213: -395006104079616727
+    second: Guy_179
+  - first:
+      213: 9014594142979976853
+    second: Guy_180
+  - first:
+      213: -5086337854621514236
+    second: Guy_181
+  - first:
+      213: -5938039830823191598
+    second: Guy_182
+  - first:
+      213: 6492514443297776197
+    second: Guy_183
+  - first:
+      213: 3110632770636708580
+    second: Guy_184
+  - first:
+      213: 569312690141202510
+    second: Guy_185
+  - first:
+      213: 915966061536198901
+    second: Guy_186
+  - first:
+      213: -7084066731626100596
+    second: Guy_187
+  - first:
+      213: -8500683339969999527
+    second: Guy_188
+  - first:
+      213: -4596562487664734142
+    second: Guy_189
+  - first:
+      213: -3001952707464755811
+    second: Guy_190
+  - first:
+      213: -1421288394356854794
+    second: Guy_191
+  - first:
+      213: -2465415902887404804
+    second: Guy_192
+  - first:
+      213: -2123603438839329731
+    second: Guy_193
+  - first:
+      213: 9222146093677432550
+    second: Guy_194
+  - first:
+      213: -2739239431355966885
+    second: Guy_195
+  - first:
+      213: -8333675187251601830
+    second: Guy_196
+  - first:
+      213: -8584750847277873777
+    second: Guy_197
+  - first:
+      213: 3687444164817588816
+    second: Guy_198
+  - first:
+      213: 730219766585987442
+    second: Guy_199
+  - first:
+      213: 2522668477266736192
+    second: Guy_200
+  - first:
+      213: -2099159520706130565
+    second: Guy_201
+  - first:
+      213: -2596175692794190497
+    second: Guy_202
+  - first:
+      213: -8204726598585226799
+    second: Guy_203
+  - first:
+      213: 6770555635610477506
+    second: Guy_204
+  - first:
+      213: 5827295976170234897
+    second: Guy_205
+  - first:
+      213: -8316413716445857076
+    second: Guy_206
+  - first:
+      213: -708507873341440398
+    second: Guy_207
+  - first:
+      213: 3336016032341815996
+    second: Guy_208
+  - first:
+      213: 6150447032444787291
+    second: Guy_209
+  - first:
+      213: 4194017573254209243
+    second: Guy_210
+  - first:
+      213: 6011268284785346219
+    second: Guy_211
+  - first:
+      213: 4536626995050691555
+    second: Guy_212
+  - first:
+      213: -4861166400463735980
+    second: Guy_213
+  - first:
+      213: 7000756811839027680
+    second: Guy_214
+  - first:
+      213: 3176394450210344756
+    second: Guy_215
+  - first:
+      213: -7337816418596535753
+    second: Guy_216
+  - first:
+      213: 6013048292614610558
+    second: Guy_217
+  - first:
+      213: 8304924633828755899
+    second: Guy_218
+  - first:
+      213: -5094500203612674508
+    second: Guy_219
+  - first:
+      213: 4189401186397150400
+    second: Guy_220
+  - first:
+      213: -830131798613955118
+    second: Guy_221
+  - first:
+      213: -8851689120641147047
+    second: Guy_222
+  - first:
+      213: 820863309549420000
+    second: Guy_223
+  - first:
+      213: 6699711888367720261
+    second: Guy_224
+  - first:
+      213: -3937103704635330824
+    second: Guy_225
+  - first:
+      213: -8911964125584264774
+    second: Guy_226
+  - first:
+      213: 7510580775187520607
+    second: Guy_227
+  - first:
+      213: 2283692176862890377
+    second: Guy_228
+  - first:
+      213: -3459943558223112686
+    second: Guy_229
+  - first:
+      213: -4464485688995921550
+    second: Guy_230
+  - first:
+      213: -6059359797412246604
+    second: Guy_231
+  - first:
+      213: 53203594304947325
+    second: Guy_232
+  - first:
+      213: 1253607075803199245
+    second: Guy_233
+  - first:
+      213: 4924163489853292500
+    second: Guy_234
+  - first:
+      213: 2067459954857783036
+    second: Guy_235
+  - first:
+      213: 3268923189034077248
+    second: Guy_236
+  - first:
+      213: -4587196895885284343
+    second: Guy_237
+  - first:
+      213: -4984668502483869126
+    second: Guy_238
+  - first:
+      213: -7975948562277618375
+    second: Guy_239
+  - first:
+      213: -3039647775245726075
+    second: Guy_240
+  - first:
+      213: -4354252553889365378
+    second: Guy_241
+  - first:
+      213: -3554067067508214672
+    second: Guy_242
+  - first:
+      213: 3440840427499936946
+    second: Guy_243
+  - first:
+      213: -5761788571432936190
+    second: Guy_244
+  - first:
+      213: 7351653223697750221
+    second: Guy_245
+  - first:
+      213: 5190881908985893057
+    second: Guy_246
+  - first:
+      213: 7058925141810181484
+    second: Guy_247
+  - first:
+      213: -7917812957195340211
+    second: Guy_248
+  - first:
+      213: -7930589116663194038
+    second: Guy_249
+  - first:
+      213: -3452968618496984210
+    second: Guy_250
+  - first:
+      213: 2593341875726180287
+    second: Guy_251
+  - first:
+      213: -2808629963353893476
+    second: Guy_252
+  - first:
+      213: -7070117454335407950
+    second: Guy_253
+  - first:
+      213: 3221189789809157308
+    second: Guy_254
+  - first:
+      213: 3586307568422982513
+    second: Guy_255
+  - first:
+      213: 3252925090331656074
+    second: Guy_256
+  - first:
+      213: -791753777573154946
+    second: Guy_257
+  - first:
+      213: 2447035507029448852
+    second: Guy_258
+  - first:
+      213: -6993442315328478501
+    second: Guy_259
+  - first:
+      213: -6875920940394573623
+    second: Guy_260
+  - first:
+      213: 1741950355744498925
+    second: Guy_261
+  - first:
+      213: -975274123121117231
+    second: Guy_262
+  - first:
+      213: 1671922661639869134
+    second: Guy_263
+  - first:
+      213: -782246186184383888
+    second: Guy_264
+  - first:
+      213: 4501582204983654013
+    second: Guy_265
+  - first:
+      213: -4147616893227699588
+    second: Guy_266
+  - first:
+      213: 8803262650909934444
+    second: Guy_267
+  - first:
+      213: 8028455191298240069
+    second: Guy_268
+  - first:
+      213: 222379200406279590
+    second: Guy_269
+  - first:
+      213: -6025441264340676725
+    second: Guy_270
+  - first:
+      213: -999831043731993176
+    second: Guy_271
+  - first:
+      213: 3198055903156816850
+    second: Guy_272
+  - first:
+      213: 3246644779225903490
+    second: Guy_273
+  - first:
+      213: 5807290209639103810
+    second: Guy_274
+  - first:
+      213: -7950363589695905860
+    second: Guy_275
+  - first:
+      213: -3540472558198547624
+    second: Guy_276
+  - first:
+      213: 4333533517125009009
+    second: Guy_277
+  - first:
+      213: -1049518733258084089
+    second: Guy_278
+  - first:
+      213: 7277960573256525563
+    second: Guy_279
+  - first:
+      213: -7385214984322791983
+    second: Guy_280
+  - first:
+      213: 710432679251821262
+    second: Guy_281
+  - first:
+      213: -2855101958753974390
+    second: Guy_282
+  - first:
+      213: -5723096549806414156
+    second: Guy_283
+  - first:
+      213: -5355573403400058614
+    second: Guy_284
+  - first:
+      213: 7188446515533077099
+    second: Guy_285
+  - first:
+      213: -6436740934259363073
+    second: Guy_286
+  - first:
+      213: 8431616731973932663
+    second: Guy_287
+  - first:
+      213: 1990370977477982562
+    second: Guy_288
+  - first:
+      213: -8248806025481019311
+    second: Guy_289
+  - first:
+      213: -7654819432620410425
+    second: Guy_290
+  - first:
+      213: 5973499127302251292
+    second: Guy_291
+  - first:
+      213: -6117259472557412631
+    second: Guy_292
+  - first:
+      213: -8097778497841305783
+    second: Guy_293
+  - first:
+      213: 5365385171071572087
+    second: Guy_294
+  - first:
+      213: 8391097737651659488
+    second: Guy_295
+  - first:
+      213: -2957308386815917174
+    second: Guy_296
+  - first:
+      213: 2416023286829065346
+    second: Guy_297
+  - first:
+      213: 6671759422892299125
+    second: Guy_298
+  - first:
+      213: -6875592321180622612
+    second: Guy_299
+  - first:
+      213: 7161526933360019181
+    second: Guy_300
+  - first:
+      213: -3483347278443961139
+    second: Guy_301
+  - first:
+      213: -7729570878595402995
+    second: Guy_302
+  - first:
+      213: -3880875860961087344
+    second: Guy_303
+  - first:
+      213: -6207672903006766629
+    second: Guy_304
+  - first:
+      213: -1751119618337860356
+    second: Guy_305
+  - first:
+      213: -7571900263520401312
+    second: Guy_306
+  - first:
+      213: -6727048749844384857
+    second: Guy_307
+  - first:
+      213: 7524645003316554277
+    second: Guy_308
+  - first:
+      213: 744006267529081471
+    second: Guy_309
+  - first:
+      213: 4498498260502716283
+    second: Guy_310
+  - first:
+      213: -1167767927390467766
+    second: Guy_311
+  - first:
+      213: 8720220301715108427
+    second: Guy_312
+  - first:
+      213: 3737302538052382614
+    second: Guy_313
+  - first:
+      213: 2967806893804220708
+    second: Guy_314
+  - first:
+      213: 8060849725442310668
+    second: Guy_315
+  - first:
+      213: -1109477840725524478
+    second: Guy_316
+  - first:
+      213: -6868204240210444260
+    second: Guy_317
+  - first:
+      213: -8194978683363177145
+    second: Guy_318
+  - first:
+      213: 4873746963233601692
+    second: Guy_319
+  - first:
+      213: 791340152075844698
+    second: Guy_320
+  - first:
+      213: -8875226865816387132
+    second: Guy_321
+  - first:
+      213: -8500085217742652232
+    second: Guy_322
+  - first:
+      213: 612549217876225603
+    second: Guy_323
+  - first:
+      213: -4477074815632375067
+    second: Guy_324
+  - first:
+      213: 7957260279259998552
+    second: Guy_325
+  - first:
+      213: -5014887834236322904
+    second: Guy_326
+  - first:
+      213: 5614167560915070924
+    second: Guy_327
+  - first:
+      213: 6196039396785127478
+    second: Guy_328
+  - first:
+      213: 8868332638608095865
+    second: Guy_329
+  - first:
+      213: -1325021455160450084
+    second: Guy_330
+  - first:
+      213: 1862617551816714984
+    second: Guy_331
+  - first:
+      213: 3854668350248938077
+    second: Guy_332
+  - first:
+      213: 5694648351948270905
+    second: Guy_333
+  - first:
+      213: 3740162560087733965
+    second: Guy_334
+  - first:
+      213: 6280477215301078859
+    second: Guy_335
+  - first:
+      213: -9073185800264129701
+    second: Guy_336
+  - first:
+      213: -373471432777003258
+    second: Guy_337
+  - first:
+      213: -3899543518015741819
+    second: Guy_338
+  - first:
+      213: 5618697941246349425
+    second: Guy_339
+  - first:
+      213: 8586819215176643337
+    second: Guy_340
+  - first:
+      213: -4599578334629518298
+    second: Guy_341
+  - first:
+      213: 4906129782307761365
+    second: Guy_342
+  - first:
+      213: 168788458099800883
+    second: Guy_343
+  - first:
+      213: -8886254729529488179
+    second: Guy_344
+  - first:
+      213: -5306163374892941585
+    second: Guy_345
+  - first:
+      213: 447592217154455325
+    second: Guy_346
+  - first:
+      213: -6529514574394711327
+    second: Guy_347
+  - first:
+      213: -1331469424970647841
+    second: Guy_348
+  - first:
+      213: -4565817293136261649
+    second: Guy_349
+  - first:
+      213: -4566850460516526466
+    second: Guy_350
+  - first:
+      213: -5605727318413688649
+    second: Guy_351
+  - first:
+      213: 1121249108077524723
+    second: Guy_352
+  - first:
+      213: -6364880737521968324
+    second: Guy_353
+  - first:
+      213: -1480418108291548985
+    second: Guy_354
+  - first:
+      213: -9155185348312748484
+    second: Guy_355
+  - first:
+      213: 8611467147743310846
+    second: Guy_356
+  - first:
+      213: 2208021933184830749
+    second: Guy_357
+  - first:
+      213: 4015940199911332377
+    second: Guy_358
+  - first:
+      213: -6769000786356636121
+    second: Guy_359
+  - first:
+      213: 6365859071405663403
+    second: Guy_360
+  - first:
+      213: -1017148102309929275
+    second: Guy_361
+  - first:
+      213: 8465844901274738738
+    second: Guy_362
+  - first:
+      213: -7255647879102905972
+    second: Guy_363
+  - first:
+      213: 7102738250472875240
+    second: Guy_364
+  - first:
+      213: -6880152239544674291
+    second: Guy_365
+  - first:
+      213: -6405613520761507132
+    second: Guy_366
+  - first:
+      213: 1007564829534073544
+    second: Guy_367
+  - first:
+      213: -3316144355217236458
+    second: Guy_368
+  - first:
+      213: 3160294643619705416
+    second: Guy_369
+  - first:
+      213: 3274198490429389608
+    second: Guy_370
+  - first:
+      213: -5155951479034021732
+    second: Guy_371
+  - first:
+      213: 8680066366087861116
+    second: Guy_372
+  - first:
+      213: -5683914493450198170
+    second: Guy_373
+  - first:
+      213: 1971008235369404688
+    second: Guy_374
+  - first:
+      213: 4723001596424192613
+    second: Guy_375
+  - first:
+      213: 8122498863570722564
+    second: Guy_376
+  - first:
+      213: 4681527485892279040
+    second: Guy_377
+  - first:
+      213: 6194001417869951224
+    second: Guy_378
+  - first:
+      213: 5937610447116806512
+    second: Guy_379
+  - first:
+      213: 4939430319579853220
+    second: Guy_380
+  - first:
+      213: -3204488394402747585
+    second: Guy_381
+  - first:
+      213: 4369225751667088167
+    second: Guy_382
+  - first:
+      213: -2692063006451398072
+    second: Guy_383
+  - first:
+      213: -6797982767508006509
+    second: Guy_384
+  - first:
+      213: 9073445433137948543
+    second: Guy_385
+  - first:
+      213: 6782325358344718907
+    second: Guy_386
+  - first:
+      213: 3141197125797253198
+    second: Guy_387
+  - first:
+      213: -79020624315946096
+    second: Guy_388
+  - first:
+      213: -7767872374442773142
+    second: Guy_389
+  - first:
+      213: -8258360236748266861
+    second: Guy_390
+  - first:
+      213: 4635803480427132560
+    second: Guy_391
+  - first:
+      213: 5491375507672977633
+    second: Guy_392
+  - first:
+      213: 3145410856638852998
+    second: Guy_393
+  - first:
+      213: 2153046376443058590
+    second: Guy_394
+  - first:
+      213: 6249520553597276059
+    second: Guy_395
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guy_6
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2789
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ba8e15770e85120800000000000000
+      internalID: 2402917204282092409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2789
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af8d150db2fa1510800000000000000
+      internalID: 1520794717839527846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_8
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2789
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5e534975ca3ec80800000000000000
+      internalID: -8294596596537629256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2789
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6087cac47e4845a10800000000000000
+      internalID: 1897287471988504582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2789
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e6f32fe8d77e1f0800000000000000
+      internalID: -1015705138045686119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2789
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c763f6b4af77ca0800000000000000
+      internalID: -6019067175062045575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2753
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b4cc3754704b560800000000000000
+      internalID: 7328490488515545962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_13
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2753
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c134dcf2cf1c337c0800000000000000
+      internalID: -4092714347471748324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2753
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904987079d1543600800000000000000
+      internalID: 447072257353225225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2753
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0271c4586971ea500800000000000000
+      internalID: 409290551386183456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2753
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1dbbb9c6efc8010800000000000000
+      internalID: 1192607743769039264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_17
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2753
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcaf6161c29675320800000000000000
+      internalID: 2546619752371387085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_18
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2719
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808e3903a9e3a9d50800000000000000
+      internalID: 6744772223901624328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_19
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2719
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cef5b9cd04cb1e0800000000000000
+      internalID: -2180796803310424951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_20
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2719
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685e0fc741c991990800000000000000
+      internalID: -7414723699679369850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 2719
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c9834f13604ce00800000000000000
+      internalID: 1063982223586794610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2719
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732ed64aefafb1570800000000000000
+      internalID: 8438614298396058167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2719
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f10d1953b66d800800000000000000
+      internalID: 636814275143278423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_24
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2688
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20f31e2e0c49c880800000000000000
+      internalID: -8590251190446198741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_25
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2688
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2af92e2a9241290800000000000000
+      internalID: -7920660065074306336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 2688
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a10f970e8aa2810800000000000000
+      internalID: 1741389888004037242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_27
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2688
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4583cdbf9d126850800000000000000
+      internalID: 6368685394976015693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_28
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2688
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7f3f2c28f26f1c0800000000000000
+      internalID: -4470333341455616065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_29
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 2688
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ae62e0bf42cce60800000000000000
+      internalID: 7983796900113869386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2612
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c1d4273f1365f0800000000000000
+      internalID: -764733190021463702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_37
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2612
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06552f2b8ff17bc0800000000000000
+      internalID: -3786964838385363446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_38
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2612
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759dfa807aead7430800000000000000
+      internalID: 3782371294489598295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 2612
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39f0484703e10c40800000000000000
+      internalID: 5476908242275727675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_40
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2558
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d223716c5f7830800000000000000
+      internalID: 4071074161779463503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_41
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2558
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec51d04a1631322f0800000000000000
+      internalID: -998933382261041714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2558
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ac27550847dfb80800000000000000
+      internalID: -8359397238791550370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_43
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2558
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94329b31b009fedc0800000000000000
+      internalID: -3607506399250537655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2505
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41bba9e897197ec0800000000000000
+      internalID: -3568795284191596210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_45
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2505
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48dd90c36e1ce4040800000000000000
+      internalID: 4633854261204737412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_46
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2505
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3bb052b1697c8e0800000000000000
+      internalID: -1673203693215042649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_47
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2505
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3f40498955f94a0800000000000000
+      internalID: -6584450016385633352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_55
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2420
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318d65fe98027ab0800000000000000
+      internalID: -5011933956494491339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2419
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537f9dd5aacc960e0800000000000000
+      internalID: -2276063104568002763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_57
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2418
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7609df864910049d0800000000000000
+      internalID: -2792230032041471897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_58
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2371
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619db4f6d5fd7e0e0800000000000000
+      internalID: -2240576697201338090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_59
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 2370
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782d72f343f3c7390800000000000000
+      internalID: -7819305359391599993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2370
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fbdd52af18f5a60800000000000000
+      internalID: 7664988002184970045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_61
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 2320
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad48023d7c1e7bc70800000000000000
+      internalID: 8986899829797979354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_62
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2320
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 725921b204161ac20800000000000000
+      internalID: 3215958537147684135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_63
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 2321
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe3fd329230e3930800000000000000
+      internalID: 4124737783948328697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_64
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2271
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb93fbe268e1f4660800000000000000
+      internalID: 7372144676687526332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_65
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2271
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd9fbfec430f3e80800000000000000
+      internalID: -8196829167816303164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_66
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 2269
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ffab85b6649e0f60800000000000000
+      internalID: 8002496756737355763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_75
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2194
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca336424a089e780800000000000000
+      internalID: -8653243766542222643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_76
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2194
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbad0022e22d1a920800000000000000
+      internalID: 2999909922386270911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_77
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2195
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c660c1edd06ea6d0800000000000000
+      internalID: -2977335797553797434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_78
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2195
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a862bb371a4244d0800000000000000
+      internalID: -3151875325559674711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_79
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2195
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b04e5e2e6c4a2720800000000000000
+      internalID: 2822152152609079480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_80
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2194
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb59fffdd437fb130800000000000000
+      internalID: 3584710606717949374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_81
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 2193
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b180211b680fbe410800000000000000
+      internalID: 1507562961572595739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_82
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2192
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4078c8a89c2c89450800000000000000
+      internalID: 6095836266514646788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_83
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 2192
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7d497cb674ba360800000000000000
+      internalID: 7181912559007881159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_84
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 2192
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 118d76c6fb60a6fa0800000000000000
+      internalID: -5806821350313568239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_85
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2162
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71aea8da12993e870800000000000000
+      internalID: 8710974474189203991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_86
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2162
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d97eac51d2812f0800000000000000
+      internalID: -1002001345468195522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_87
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2161
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2956b5e808a9d830800000000000000
+      internalID: 4096490092237314351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_88
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2161
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548304d1cc377a390800000000000000
+      internalID: -7807144108522194875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_89
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2161
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67653af2384fe140800000000000000
+      internalID: 4751095515682531180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_90
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 2162
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86ed26ffc5f354d0800000000000000
+      internalID: -3146901441064606069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_91
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2162
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e351b947724cfc0800000000000000
+      internalID: -3475609630651629949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_92
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 2162
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ceaf0a6ae77f480800000000000000
+      internalID: -8865478087325062019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_93
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2162
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8423e58227aba2b90800000000000000
+      internalID: -7265790049342574008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_94
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2122
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de84c005a56f140800000000000000
+      internalID: 4753085756586126736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_95
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2122
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59cdf100ba575be20800000000000000
+      internalID: 3365725673831259285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_96
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2123
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fbd5170c069dd80800000000000000
+      internalID: -8225436864763543704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_97
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2124
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d38ea3d71b13470800000000000000
+      internalID: 8372668333675789632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_98
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2124
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f06b5602e11a4a0800000000000000
+      internalID: -6583948055744737379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_99
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 2124
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55aebb8d8f908b80800000000000000
+      internalID: -8394534275134872226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_100
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2124
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29023dc75fd319a20800000000000000
+      internalID: 3067300945786511506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_101
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 2123
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01ab0fd9e5cb6980800000000000000
+      internalID: -8544518259745251057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_102
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 2123
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1394ac5c5abce3970800000000000000
+      internalID: 8736644239993751857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_103
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 2123
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c15020cca45fb20800000000000000
+      internalID: 3167520152992685171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_104
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2091
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5182219e22f750d10800000000000000
+      internalID: 2091217389899360277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_105
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2093
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f15a3fc9becee60800000000000000
+      internalID: 7993022498010898288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_106
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2092
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b05105966f64040800000000000000
+      internalID: 4631660198972689193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_107
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 2092
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128cf378a176d3c20800000000000000
+      internalID: 3187817474884093985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_108
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2092
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0045f7f5b4f6370800000000000000
+      internalID: 8317949910306783415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_109
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2092
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f278679227c1120800000000000000
+      internalID: 2385907425007316859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_110
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2092
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87ae39dd606b5eb0800000000000000
+      internalID: -4730080958710110324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2092
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6f6d3ee14eb8bf0800000000000000
+      internalID: -320912127104190728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_112
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 2092
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 195c08121c5ee5830800000000000000
+      internalID: 4061936531588302225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2053
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b592256a713ed5390800000000000000
+      internalID: -7827850886585898661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_114
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 2053
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5150789308cca660800000000000000
+      internalID: 7398508205630837083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_115
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 2053
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202cb142943496ac0800000000000000
+      internalID: -3861481224076017150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_116
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 2053
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b90535f796392520800000000000000
+      internalID: 2677731479730325941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_117
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2053
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9c496cd697932a0800000000000000
+      internalID: -6757236253502682646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_118
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2052
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044a00299fdd3daf0800000000000000
+      internalID: -372710280175508416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_119
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2051
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9965e69544ddae20800000000000000
+      internalID: 3363577892065077658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_120
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 2050
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341ff610f1b3d9d30800000000000000
+      internalID: 4439769812011315523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_121
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 2050
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2de1192c58f3d30800000000000000
+      internalID: 4413393230551241446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_122
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 2050
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b44f06ea67c354f0800000000000000
+      internalID: -841109443447929674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_123
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2021
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f69b671b235862e0800000000000000
+      internalID: -2132362979018303755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_124
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2022
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47e8a09d82462590800000000000000
+      internalID: -7699393337158473909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_125
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2021
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1b202623d1062b0800000000000000
+      internalID: -5593438634964241983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_126
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2020
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca58087c4c0659010800000000000000
+      internalID: 1194967674413680044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_127
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2020
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68bbf629deb8ba20800000000000000
+      internalID: 3078420185178945643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_128
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 2020
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fca309692fa47fb0800000000000000
+      internalID: -4650899922776511239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_129
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 2020
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbc8642f5a3dfdf0800000000000000
+      internalID: -144895432698835975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_130
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2020
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13fa725a5faaf17e0800000000000000
+      internalID: -1792526154655617231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_131
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2020
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b47d1b069008b00800000000000000
+      internalID: 828672642341358456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_132
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1986
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2578182d5410270800000000000000
+      internalID: 8214923965719073524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_133
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1986
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fdd9a434f7b6fd0800000000000000
+      internalID: -2347642853752184982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_134
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1986
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac937ba2f8f718eb0800000000000000
+      internalID: -4719350681633867318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_135
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1986
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fd0d0eeacf4db10800000000000000
+      internalID: 2005505562113007378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_136
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1986
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82be4c85ccf689340800000000000000
+      internalID: 4870765920454503208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_137
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1985
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5fe1c490a24f4890800000000000000
+      internalID: -7471679999326425252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_138
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1985
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a12e569dc6bf5fe70800000000000000
+      internalID: 9148494662995403290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_139
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1984
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36441512fa061e30800000000000000
+      internalID: 4473775314691180093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_140
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1984
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdb433595938b090800000000000000
+      internalID: -8018596080722330172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_141
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1984
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b852a5b564c2ed50800000000000000
+      internalID: 6765185531381962937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_142
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1954
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d852bf31d3f705c0800000000000000
+      internalID: -4249159643358406445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_143
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1955
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1f5f12e89a08990800000000000000
+      internalID: -7385716960967396875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_144
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1953
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3265b5873e3fd3980800000000000000
+      internalID: -8557415558631696861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_145
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1953
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b3d825987fe36a0800000000000000
+      internalID: -6467459845689885905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_146
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1953
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155223e2a1e1830b0800000000000000
+      internalID: -5748811826545416879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_147
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1953
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f0b937e81ef07c0800000000000000
+      internalID: -4102812733570084987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_148
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1953
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a535f67a12a29b50800000000000000
+      internalID: 6598514638599828900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_149
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1953
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5192365c198bdfa0800000000000000
+      internalID: -5774871342374284963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_150
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1953
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fff47df627bb550800000000000000
+      internalID: 6177657138548047760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_158
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1887
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343327ed3c2c1acb0800000000000000
+      internalID: -4854384776822246589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_159
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1887
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c6f9229dcf7f140800000000000000
+      internalID: 4753545941231823910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_160
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1887
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0653eff05270160800000000000000
+      internalID: 6991597697135632572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_161
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1887
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8700a64cc42f26710800000000000000
+      internalID: 1685175622116704376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_162
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1887
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e8781dffbfa2880800000000000000
+      internalID: -8634812259378950507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_163
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1850
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ec6892fd1627820800000000000000
+      internalID: 2914499519964434039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_164
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 1850
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8fec00d90a76520800000000000000
+      internalID: 2695299498188404955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_165
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1850
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3a516963f131200800000000000000
+      internalID: 149497531940053992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_166
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 1850
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c4fad80d0fd4ff0800000000000000
+      internalID: -50119242310267754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_173
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1721
+        width: 23
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4885be5cdd79dd0800000000000000
+      internalID: -2479269227717425978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_174
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1721
+        width: 24
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa452adef50f100e0800000000000000
+      internalID: -2305297239437585238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_175
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1721
+        width: 24
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843b838ad40215040800000000000000
+      internalID: 4634521009447809864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_176
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1721
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b3a9253abd81330800000000000000
+      internalID: 3681934189887372051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_177
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1721
+        width: 22
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e10e3b599d1eb5590800000000000000
+      internalID: -7684300014541873122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_178
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1721
+        width: 21
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f355c9fdc2c0beb0800000000000000
+      internalID: -4706047420687625230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_179
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1721
+        width: 21
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925393a8a08a48af0800000000000000
+      internalID: -395006104079616727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_180
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1721
+        width: 20
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e63a69c954a1d70800000000000000
+      internalID: 9014594142979976853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_181
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1721
+        width: 20
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40689a77ba2b969b0800000000000000
+      internalID: -5086337854621514236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_182
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1631
+        width: 20
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbb9a52c38d79da0800000000000000
+      internalID: -5938039830823191598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_183
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1631
+        width: 20
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5426bd3cc7b0a1a50800000000000000
+      internalID: 6492514443297776197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_184
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1631
+        width: 21
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea7d7826003b2b20800000000000000
+      internalID: 3110632770636708580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_185
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1631
+        width: 22
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e480df510ea96e700800000000000000
+      internalID: 569312690141202510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_186
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1631
+        width: 23
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0cd2ca74a26bc00800000000000000
+      internalID: 915966061536198901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_187
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1631
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88834037d650bd90800000000000000
+      internalID: -7084066731626100596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_188
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1631
+        width: 22
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95dc1057a81870a80800000000000000
+      internalID: -8500683339969999527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_189
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1631
+        width: 22
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2409bd665cab530c0800000000000000
+      internalID: -4596562487664734142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_190
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1631
+        width: 23
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d958a07eaebe656d0800000000000000
+      internalID: -3001952707464755811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_191
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1541
+        width: 22
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff69f25cb1964ce0800000000000000
+      internalID: -1421288394356854794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_192
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1541
+        width: 21
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa1cc47c4519cdd0800000000000000
+      internalID: -2465415902887404804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_193
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1541
+        width: 22
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c0f287ce17782e0800000000000000
+      internalID: -2123603438839329731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_194
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1541
+        width: 23
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ee466cd205abff70800000000000000
+      internalID: 9222146093677432550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_195
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1541
+        width: 11
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ad84310444cf9d0800000000000000
+      internalID: -2739239431355966885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_196
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1549
+        width: 11
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e91662296d85c80800000000000000
+      internalID: -8333675187251601830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_197
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1458
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85c4ce9696dcd880800000000000000
+      internalID: -8584750847277873777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_198
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1458
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0521a055eee6c2330800000000000000
+      internalID: 3687444164817588816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_199
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1458
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27193534203422a00800000000000000
+      internalID: 730219766585987442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_206
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1374
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccafe0289c9269c80800000000000000
+      internalID: -8316413716445857076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_207
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1374
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e7ae0d7dfda26f0800000000000000
+      internalID: -708507873341440398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_208
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1327
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2fdbc08e8eb4e20800000000000000
+      internalID: 3336016032341815996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_209
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1327
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a1ab25df6ca5550800000000000000
+      internalID: 6150447032444787291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_210
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1327
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde109313c4243a30800000000000000
+      internalID: 4194017573254209243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_211
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1327
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba6c33ce7a05c6350800000000000000
+      internalID: 6011268284785346219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_212
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1331
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ebb176473655fe30800000000000000
+      internalID: 4536626995050691555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_213
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1328
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4537b421aeaa98cb0800000000000000
+      internalID: -4861166400463735980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_214
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1330
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e9bf809a3fa72160800000000000000
+      internalID: 7000756811839027680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_215
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1330
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f4f475ce1d41c20800000000000000
+      internalID: 3176394450210344756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_216
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1285
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732468e38d6da2a90800000000000000
+      internalID: -7337816418596535753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_217
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1285
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e109a4093a27350800000000000000
+      internalID: 6013048292614610558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_218
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 1285
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb901cdf3f4014370800000000000000
+      internalID: 8304924633828755899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_219
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1285
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436e28f7e03bc49b0800000000000000
+      internalID: -5094500203612674508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_220
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1285
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc5dc0ce2eb32a30800000000000000
+      internalID: 4189401186397150400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_221
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1237
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddebd20787ca74f0800000000000000
+      internalID: -830131798613955118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_222
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1237
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f9efd94ab782580800000000000000
+      internalID: -8851689120641147047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_223
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1193
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed38d6b4da446b00800000000000000
+      internalID: 820863309549420000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_224
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1193
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5479e9347782afc50800000000000000
+      internalID: 6699711888367720261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_225
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1193
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe26515a099c59c0800000000000000
+      internalID: -3937103704635330824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_226
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1193
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1768b68d7525480800000000000000
+      internalID: -8911964125584264774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_227
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 1196
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c1ee91c61fa3860800000000000000
+      internalID: 7510580775187520607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_228
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1193
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98940427fed41bf10800000000000000
+      internalID: 2283692176862890377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_229
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 1194
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216d5355aafcbffc0800000000000000
+      internalID: -3459943558223112686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_230
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1194
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27145927be5fa02c0800000000000000
+      internalID: -4464485688995921550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_231
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1149
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bbc5fc3e54d8eba0800000000000000
+      internalID: -6059359797412246604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_232
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1149
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74025b13640db000800000000000000
+      internalID: 53203594304947325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_233
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1149
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d077a295ef4b56110800000000000000
+      internalID: 1253607075803199245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_234
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1149
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df37acca94265440800000000000000
+      internalID: 4924163489853292500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_235
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1149
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfea4a400e711bc10800000000000000
+      internalID: 2067459954857783036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_244
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1071
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d95d052d30a00b0800000000000000
+      internalID: -5761788571432936190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_245
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1071
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc81c5ef7a1560660800000000000000
+      internalID: 7351653223697750221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_246
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1071
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c01b100897b90840800000000000000
+      internalID: 5190881908985893057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_247
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 1071
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c657ba5440756f160800000000000000
+      internalID: 7058925141810181484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_248
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1071
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46f268d0174e1290800000000000000
+      internalID: -7917812957195340211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_249
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1071
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e16b96733e0f190800000000000000
+      internalID: -7930589116663194038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_250
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1036
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b7ae906579410d0800000000000000
+      internalID: -3452968618496984210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_251
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1036
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfddc322b66df320800000000000000
+      internalID: 2593341875726180287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_252
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1036
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95d5c8ddedb509d0800000000000000
+      internalID: -2808629963353893476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_253
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1036
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b88c0662a5e1ed90800000000000000
+      internalID: -7070117454335407950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_254
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1036
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4a0b71c07f3bc20800000000000000
+      internalID: 3221189789809157308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_255
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1036
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173952f7bbf15c130800000000000000
+      internalID: 3586307568422982513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_256
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1003
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f7c2a8226b42d20800000000000000
+      internalID: 3252925090331656074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_257
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1003
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fad2a52202305f0800000000000000
+      internalID: -791753777573154946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_258
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1003
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498124524dd95f120800000000000000
+      internalID: 2447035507029448852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_259
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1003
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd229ad544d42fe90800000000000000
+      internalID: -6993442315328478501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_260
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1003
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c09c1cb552d390a0800000000000000
+      internalID: -6875920940394573623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_261
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1003
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4248a8e96ac2810800000000000000
+      internalID: 1741950355744498925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_262
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 971
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d73cbc2a512772f0800000000000000
+      internalID: -975274123121117231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_263
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 971
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec258f27dccd33710800000000000000
+      internalID: 1671922661639869134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_264
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 971
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0726399fc37e425f0800000000000000
+      internalID: -782246186184383888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_265
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 971
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76354f3a25d87e30800000000000000
+      internalID: 4501582204983654013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_266
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 971
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72f0ce1964b076c0800000000000000
+      internalID: -4147616893227699588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_267
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 971
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6343f34db87b2a70800000000000000
+      internalID: 8803262650909934444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_275
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 899
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbfd9f02072aaa190800000000000000
+      internalID: -7950363589695905860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_276
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 899
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b9e8f67f6bddec0800000000000000
+      internalID: -3540472558198547624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_277
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 901
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e3c7616cdc32c30800000000000000
+      internalID: 4333533517125009009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_278
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 865
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701b80fc54c5f61f0800000000000000
+      internalID: -1049518733258084089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_279
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 865
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6e042c492800560800000000000000
+      internalID: 7277960573256525563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_280
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 867
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d54c8da912728990800000000000000
+      internalID: -7385214984322791983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_281
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 831
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec242abf1c6fbd900800000000000000
+      internalID: 710432679251821262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_282
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 831
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8782fe35e3a068d0800000000000000
+      internalID: -2855101958753974390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_283
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 832
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6668d920a7390b0800000000000000
+      internalID: -5723096549806414156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_284
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 797
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a094fc95d5e2da5b0800000000000000
+      internalID: -5355573403400058614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_285
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 797
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a5e35150e72c360800000000000000
+      internalID: 7188446515533077099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_286
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 799
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2314e393a1ca6a0800000000000000
+      internalID: -6436740934259363073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_300
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 698
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de601507dcad26360800000000000000
+      internalID: 7161526933360019181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_301
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 698
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc426071b1aa8afc0800000000000000
+      internalID: -3483347278443961139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_302
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 698
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03fd1b2d3c0bb490800000000000000
+      internalID: -7729570878595402995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_303
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 698
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090b60a57fb542ac0800000000000000
+      internalID: -3880875860961087344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_304
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 698
+        width: 25
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9b676626ae9d9a0800000000000000
+      internalID: -6207672903006766629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_305
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 699
+        width: 10
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf411c52cf5c2b7e0800000000000000
+      internalID: -1751119618337860356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_306
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 699
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0680e26f3d43be690800000000000000
+      internalID: -7571900263520401312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_307
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 647
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a33aceadc8b4a2a0800000000000000
+      internalID: -6727048749844384857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_325
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 575
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8592e9a801edd6e60800000000000000
+      internalID: 7957260279259998552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_326
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 539
+        width: 57
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab7ae3b51a876ab0800000000000000
+      internalID: -5014887834236322904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_327
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 539
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf2dd9c6a789ed40800000000000000
+      internalID: 5614167560915070924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_328
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 539
+        width: 69
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63004bbd001ccf550800000000000000
+      internalID: 6196039396785127478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_329
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 539
+        width: 77
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97afc326c85a21b70800000000000000
+      internalID: 8868332638608095865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_330
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 500
+        width: 52
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e36db1049c9de0800000000000000
+      internalID: -1325021455160450084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_331
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 500
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea61787bc859d910800000000000000
+      internalID: 1862617551816714984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_345
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 406
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fee71571688bc56b0800000000000000
+      internalID: -5306163374892941585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_346
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 406
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1788b300ca263600800000000000000
+      internalID: 447592217154455325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_347
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 406
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e2a775e6118265a0800000000000000
+      internalID: -6529514574394711327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_348
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 409
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6b457cc9ba58de0800000000000000
+      internalID: -1331469424970647841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_349
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 406
+        width: 22
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed0745dc55f2a0c0800000000000000
+      internalID: -4565817293136261649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_350
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 406
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76559ec3b94f90c0800000000000000
+      internalID: -4566850460516526466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_351
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 409
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0cf3e44b47432b0800000000000000
+      internalID: -5605727318413688649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_352
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 405
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f63fa78f1a7f8f00800000000000000
+      internalID: 1121249108077524723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_353
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 353
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3bd64a11b66ba7a0800000000000000
+      internalID: -6364880737521968324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_354
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 353
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8f938f29f747be0800000000000000
+      internalID: -1480418108291548985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_355
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 353
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e25f49e6f32f080800000000000000
+      internalID: -9155185348312748484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_356
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 353
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3bf20deb3128770800000000000000
+      internalID: 8611467147743310846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_357
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 353
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dc0c7ef3874ae10800000000000000
+      internalID: 2208021933184830749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_358
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 353
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a1dee955c7bb730800000000000000
+      internalID: 4015940199911332377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_359
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 353
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7267fd406adaf02a0800000000000000
+      internalID: -6769000786356636121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_360
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 353
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba425510913185850800000000000000
+      internalID: 6365859071405663403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_361
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 353
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce9ad5a03d52e1f0800000000000000
+      internalID: -1017148102309929275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_362
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 353
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23068007519bc7570800000000000000
+      internalID: 8465844901274738738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_363
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 291
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8141ce22b2ce4b90800000000000000
+      internalID: -7255647879102905972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_380
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 203
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1f95794b16c8440800000000000000
+      internalID: 4939430319579853220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_381
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 203
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b23cc88ce5783d0800000000000000
+      internalID: -3204488394402747585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_382
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 195
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b1b970cab92ac30800000000000000
+      internalID: 4369225751667088167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_383
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 197
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a8e7375fed3aad0800000000000000
+      internalID: -2692063006451398072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_384
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 130
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3995571b0b6b8a1a0800000000000000
+      internalID: -6797982767508006509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_385
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 127
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77e31b5c8a5bed70800000000000000
+      internalID: 9073445433137948543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_386
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 132
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ac247aaf8af1e50800000000000000
+      internalID: 6782325358344718907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_387
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 133
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e409f94a426c79b20800000000000000
+      internalID: 3141197125797253198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_388
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 72
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09be7bd292347eef0800000000000000
+      internalID: -79020624315946096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_389
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 72
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b4cc3b39f23490800000000000000
+      internalID: -7767872374442773142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_390
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 71
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392a86d8e19646d80800000000000000
+      internalID: -8258360236748266861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_391
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 70
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096f06334bea55040800000000000000
+      internalID: 4635803480427132560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_392
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 33
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e0d02ffde8453c40800000000000000
+      internalID: 5491375507672977633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_393
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 8
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fad9e428eb6ab20800000000000000
+      internalID: 3145410856638852998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_394
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 11
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9994d4a54821ed10800000000000000
+      internalID: 2153046376443058590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guy_395
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 11
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f0ba505d1cab650800000000000000
+      internalID: 6249520553597276059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

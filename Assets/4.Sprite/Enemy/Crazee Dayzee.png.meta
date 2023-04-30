@@ -1,0 +1,2076 @@
+fileFormatVersion: 2
+guid: d71dcfee4b2336241b0f526422c13d78
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 51363031005647093
+    second: Crazee Dayzee_0
+  - first:
+      213: -8859783093984627492
+    second: Crazee Dayzee_1
+  - first:
+      213: 6198710996258642608
+    second: Crazee Dayzee_2
+  - first:
+      213: -8211389766452635908
+    second: Crazee Dayzee_3
+  - first:
+      213: 219627390557774684
+    second: Crazee Dayzee_4
+  - first:
+      213: -5749089776619794469
+    second: Crazee Dayzee_5
+  - first:
+      213: -1592772960676288282
+    second: Crazee Dayzee_6
+  - first:
+      213: 4045365397595700621
+    second: Crazee Dayzee_7
+  - first:
+      213: 2157662925322656065
+    second: Crazee Dayzee_8
+  - first:
+      213: -6597534529922226557
+    second: Crazee Dayzee_9
+  - first:
+      213: 8541485720577735220
+    second: Crazee Dayzee_10
+  - first:
+      213: -8596278540382293432
+    second: Crazee Dayzee_11
+  - first:
+      213: -1677606193935772825
+    second: Crazee Dayzee_12
+  - first:
+      213: 3739002278211946586
+    second: Crazee Dayzee_13
+  - first:
+      213: -6451298094352313086
+    second: Crazee Dayzee_14
+  - first:
+      213: 5656602124714144024
+    second: Crazee Dayzee_15
+  - first:
+      213: 8085036865155199167
+    second: Crazee Dayzee_16
+  - first:
+      213: 6794959780574320532
+    second: Crazee Dayzee_17
+  - first:
+      213: -7140654172790251200
+    second: Crazee Dayzee_18
+  - first:
+      213: -8371919332458381053
+    second: Crazee Dayzee_19
+  - first:
+      213: -2461372842059201803
+    second: Crazee Dayzee_20
+  - first:
+      213: -2458674988343109299
+    second: Crazee Dayzee_21
+  - first:
+      213: -4079081552026115121
+    second: Crazee Dayzee_22
+  - first:
+      213: -3644152015550155979
+    second: Crazee Dayzee_23
+  - first:
+      213: -5902186009011384
+    second: Crazee Dayzee_24
+  - first:
+      213: -5049599398775567863
+    second: Crazee Dayzee_25
+  - first:
+      213: -7504937640786069578
+    second: Crazee Dayzee_26
+  - first:
+      213: 3563185000366403900
+    second: Crazee Dayzee_27
+  - first:
+      213: -3121780436379384488
+    second: Crazee Dayzee_28
+  - first:
+      213: -2037385678117507101
+    second: Crazee Dayzee_29
+  - first:
+      213: -3238072510827032560
+    second: Crazee Dayzee_30
+  - first:
+      213: 5886155026561787708
+    second: Crazee Dayzee_31
+  - first:
+      213: 423628719867785072
+    second: Crazee Dayzee_32
+  - first:
+      213: -1099391746524432580
+    second: Crazee Dayzee_33
+  - first:
+      213: -1129826015943997228
+    second: Crazee Dayzee_34
+  - first:
+      213: 6619735707965422571
+    second: Crazee Dayzee_35
+  - first:
+      213: -6352650029853103082
+    second: Crazee Dayzee_36
+  - first:
+      213: 6520407237051362720
+    second: Crazee Dayzee_37
+  - first:
+      213: 7616354743854236027
+    second: Crazee Dayzee_38
+  - first:
+      213: 1865487502615909096
+    second: Crazee Dayzee_39
+  - first:
+      213: 9110654145524359944
+    second: Crazee Dayzee_40
+  - first:
+      213: 8938388185671447210
+    second: Crazee Dayzee_41
+  - first:
+      213: 688118896047097701
+    second: Crazee Dayzee_42
+  - first:
+      213: -6807319494413450012
+    second: Crazee Dayzee_43
+  - first:
+      213: -2970881267067174516
+    second: Crazee Dayzee_44
+  - first:
+      213: -1884539279490677398
+    second: Crazee Dayzee_45
+  - first:
+      213: 1818153635035955799
+    second: Crazee Dayzee_46
+  - first:
+      213: -1651893318723618253
+    second: Crazee Dayzee_47
+  - first:
+      213: 248224640953574784
+    second: Crazee Dayzee_48
+  - first:
+      213: -8078510693275248030
+    second: Crazee Dayzee_49
+  - first:
+      213: 5783666523242120641
+    second: Crazee Dayzee_50
+  - first:
+      213: 7990507127095767173
+    second: Crazee Dayzee_51
+  - first:
+      213: 4915821586371524565
+    second: Crazee Dayzee_52
+  - first:
+      213: -262746468890320398
+    second: Crazee Dayzee_53
+  - first:
+      213: -3139973298455052966
+    second: Crazee Dayzee_54
+  - first:
+      213: -9094695842275194869
+    second: Crazee Dayzee_55
+  - first:
+      213: 8037780957013682104
+    second: Crazee Dayzee_56
+  - first:
+      213: -3482858934812412157
+    second: Crazee Dayzee_57
+  - first:
+      213: -1165712037642163358
+    second: Crazee Dayzee_58
+  - first:
+      213: 5667066839151621680
+    second: Crazee Dayzee_59
+  - first:
+      213: -7878430690317419728
+    second: Crazee Dayzee_60
+  - first:
+      213: 7094148358978315943
+    second: Crazee Dayzee_61
+  - first:
+      213: 8452356574602200671
+    second: Crazee Dayzee_62
+  - first:
+      213: -5911440145922405971
+    second: Crazee Dayzee_63
+  - first:
+      213: -7700604147243059498
+    second: Crazee Dayzee_64
+  - first:
+      213: 8021581475284773598
+    second: Crazee Dayzee_65
+  - first:
+      213: -533873746199417540
+    second: Crazee Dayzee_66
+  - first:
+      213: -4198949091522937802
+    second: Crazee Dayzee_67
+  - first:
+      213: -3962398111108858500
+    second: Crazee Dayzee_68
+  - first:
+      213: 3891273071258008294
+    second: Crazee Dayzee_69
+  - first:
+      213: 7513594788980926876
+    second: Crazee Dayzee_70
+  - first:
+      213: -7744875469035305475
+    second: Crazee Dayzee_71
+  - first:
+      213: -4285863230955703294
+    second: Crazee Dayzee_72
+  - first:
+      213: 5258673387624905316
+    second: Crazee Dayzee_73
+  - first:
+      213: 3793017854092705931
+    second: Crazee Dayzee_74
+  - first:
+      213: -8374909877934081011
+    second: Crazee Dayzee_75
+  - first:
+      213: -1837429335349410961
+    second: Crazee Dayzee_76
+  - first:
+      213: 2560293416090350552
+    second: Crazee Dayzee_77
+  - first:
+      213: -5217489967698784458
+    second: Crazee Dayzee_78
+  - first:
+      213: 7301651812375955288
+    second: Crazee Dayzee_79
+  - first:
+      213: -6797250902023294518
+    second: Crazee Dayzee_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Crazee Dayzee_0
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 254
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0dda1976a76b000800000000000000
+      internalID: 51363031005647093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_1
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 254
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4f808973abb0580800000000000000
+      internalID: -8859783093984627492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_2
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 252
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0badd451fce360650800000000000000
+      internalID: 6198710996258642608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 253
+        width: 39
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6105263884b0e80800000000000000
+      internalID: -8211389766452635908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_4
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 255
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c536425b2f54c0300800000000000000
+      internalID: 219627390557774684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_5
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 255
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf4fb2ee412730b0800000000000000
+      internalID: -5749089776619794469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 255
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8ea0f5e6555e9e0800000000000000
+      internalID: -1592772960676288282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_7
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 255
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d39565566042830800000000000000
+      internalID: 4045365397595700621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 255
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14913e0bffe81fd10800000000000000
+      internalID: 2157662925322656065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_9
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 255
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386ac9edc49d074a0800000000000000
+      internalID: -6597534529922226557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_10
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 255
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a7b151204798670800000000000000
+      internalID: 8541485720577735220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_11
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 255
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842333a6632e3b880800000000000000
+      internalID: -8596278540382293432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_12
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 255
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76396711e02f7b8e0800000000000000
+      internalID: -1677606193935772825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_13
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 255
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58033f03ca93e330800000000000000
+      internalID: 3739002278211946586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_14
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 255
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205d9f940926876a0800000000000000
+      internalID: -6451298094352313086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_15
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 253
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8117e4799a9408e40800000000000000
+      internalID: 5656602124714144024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_16
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 255
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb073874132d33070800000000000000
+      internalID: 8085036865155199167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_17
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 255
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497d2305beb8c4e50800000000000000
+      internalID: 6794959780574320532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_18
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 207
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0412de6dcdc47ec90800000000000000
+      internalID: -7140654172790251200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_19
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 206
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301c79439b7f0db80800000000000000
+      internalID: -8371919332458381053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_20
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 206
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f28449e07277ddd0800000000000000
+      internalID: -2461372842059201803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_21
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 206
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49dbadef1801edd0800000000000000
+      internalID: -2458674988343109299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_22
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 207
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc362a9b0f03467c0800000000000000
+      internalID: -4079081552026115121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 207
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533fb95ac0f5d6dc0800000000000000
+      internalID: -3644152015550155979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 206
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bd88b3ef70beff0800000000000000
+      internalID: -5902186009011384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_25
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 206
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ac4f9c9183ce9b0800000000000000
+      internalID: -5049599398775567863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_26
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 206
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7fc738afa19d790800000000000000
+      internalID: -7504937640786069578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 206
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31f6d711e9f27130800000000000000
+      internalID: 3563185000366403900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 195
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c7d6ab353da4d0800000000000000
+      internalID: -3121780436379384488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_29
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 193
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ef66513580c9b3e0800000000000000
+      internalID: -2037385678117507101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_30
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 193
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010923b153e0013d0800000000000000
+      internalID: -3238072510827032560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_31
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 195
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37681b7fc2dfa150800000000000000
+      internalID: 5886155026561787708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_32
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 170
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f6f54831801e500800000000000000
+      internalID: 423628719867785072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 161
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c373a67080d2eb0f0800000000000000
+      internalID: -1099391746524432580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d8c9ad793d0250f0800000000000000
+      internalID: -1129826015943997228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 162
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb7f34bd860edb50800000000000000
+      internalID: 6619735707965422571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_36
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 162
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c2b34a47ad6d7a0800000000000000
+      internalID: -6352650029853103082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_37
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 135
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad2553e5d32d7a50800000000000000
+      internalID: 6520407237051362720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_38
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 135
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b710bce494ab2b960800000000000000
+      internalID: 7616354743854236027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_39
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 122
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e21a56fffa83e910800000000000000
+      internalID: 1865487502615909096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_40
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 121
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8036b6fccab8f6e70800000000000000
+      internalID: 9110654145524359944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 120
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2be7f72b88b0c70800000000000000
+      internalID: 8938388185671447210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_42
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 120
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5670f1a7d70bc8900800000000000000
+      internalID: 688118896047097701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 120
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e405ee8cfa8781a0800000000000000
+      internalID: -6807319494413450012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 120
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81499e5a3f45c6d0800000000000000
+      internalID: -2970881267067174516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_45
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 119
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6500b09285c8d5e0800000000000000
+      internalID: -1884539279490677398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_46
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 119
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752476b19116b3910800000000000000
+      internalID: 1818153635035955799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_47
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 120
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a33aa57cb4319e0800000000000000
+      internalID: -1651893318723618253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_48
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 120
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085698ceefed17300800000000000000
+      internalID: 248224640953574784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_49
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 135
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a5225835d53ef80800000000000000
+      internalID: -8078510693275248030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_50
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 135
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c54a294f06b34050800000000000000
+      internalID: 5783666523242120641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_51
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 135
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58035c585ebf3ee60800000000000000
+      internalID: 7990507127095767173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_52
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 85
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d73fda00b1883440800000000000000
+      internalID: 4915821586371524565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_53
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 78
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1edc78a798a5cf0800000000000000
+      internalID: -262746468890320398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_54
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 78
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dff5ddbe29c64d0800000000000000
+      internalID: -3139973298455052966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_55
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 78
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0807f4315629c180800000000000000
+      internalID: -9094695842275194869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_56
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 78
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b72335c13feb8f60800000000000000
+      internalID: 8037780957013682104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_57
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 87
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307f5b370466aafc0800000000000000
+      internalID: -3482858934812412157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_58
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 87
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b21f5f31f82dfe0800000000000000
+      internalID: -1165712037642163358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_59
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 86
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 036370ac34775ae40800000000000000
+      internalID: 5667066839151621680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_60
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 86
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b381467013aa290800000000000000
+      internalID: -7878430690317419728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_61
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 86
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6a2d8985a737260800000000000000
+      internalID: 7094148358978315943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_62
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 86
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f560a18a58dcc4570800000000000000
+      internalID: 8452356574602200671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_63
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 37
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9cf47e18856fda0800000000000000
+      internalID: -5911440145922405971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_64
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 37
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d67dafd355f12590800000000000000
+      internalID: -7700604147243059498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_65
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 40
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edae3330ad1625f60800000000000000
+      internalID: 8021581475284773598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 41
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d60ea08ac4798f0800000000000000
+      internalID: -533873746199417540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_67
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 37
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c73d95c065ab5c0800000000000000
+      internalID: -4198949091522937802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_68
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 41
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d7da069ebb209c0800000000000000
+      internalID: -3962398111108858500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_69
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 26
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea7060dd34900630800000000000000
+      internalID: 3891273071258008294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_70
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 24
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c992f6fd6a6a54860800000000000000
+      internalID: 7513594788980926876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 25
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df583868bcca48490800000000000000
+      internalID: -7744875469035305475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_72
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 25
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2043af2591e8584c0800000000000000
+      internalID: -4285863230955703294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_73
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 27
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46abe2b959f8af840800000000000000
+      internalID: 5258673387624905316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_74
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 13
+        width: 27
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8009eb54a183a430800000000000000
+      internalID: 3793017854092705931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_75
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 11
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c34d396d756cb80800000000000000
+      internalID: -8374909877934081011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_76
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 14
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63cd9e21c32086e0800000000000000
+      internalID: -1837429335349410961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_77
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 14
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d336d20c4df78320800000000000000
+      internalID: 2560293416090350552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_78
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 14
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f46209480c797b0800000000000000
+      internalID: -5217489967698784458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_79
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 12
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857814633ada45560800000000000000
+      internalID: 7301651812375955288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Crazee Dayzee_80
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 13
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1b2b761505ba1a0800000000000000
+      internalID: -6797250902023294518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
